@@ -1,2 +1,2 @@
-# MAKY
-Mango Fruit Recipes Book
+# Chew Rank
+Food Tracking System
